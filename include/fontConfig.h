@@ -1,0 +1,26 @@
+#ifndef PIXELFONTSCONFIG_H
+#define PIXELFONTSCONFIG_H
+
+
+
+#define FONT_ACTIVATE_4x6   0
+#define FONT_ACTIVATE_5x8   1
+#define FONT_ACTIVATE_5x12  0
+#define FONT_ACTIVATE_6x8   1
+#define FONT_ACTIVATE_6x10  0
+#define FONT_ACTIVATE_7x12  0
+#define FONT_ACTIVATE_7x12b 0
+#define FONT_ACTIVATE_8x8   0
+#define FONT_ACTIVATE_8x12  1
+#define FONT_ACTIVATE_8x14  0
+#define FONT_ACTIVATE_10x16 0
+#define FONT_ACTIVATE_12x16 1
+#define FONT_ACTIVATE_12x20 0
+#define FONT_ACTIVATE_16x26 1
+#define FONT_ACTIVATE_22x36 0 /* bigfont */
+#define FONT_ACTIVATE_24x40 0 /* bigfont */
+#define FONT_ACTIVATE_32x53 0 /* bigfont */
+
+#define FONT_CONFIG_PRESENT
+
+#endif // PIXELFONTSCONFIG_H

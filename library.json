@@ -1,0 +1,22 @@
+{
+  "name": "Fonts",
+  "version": "0.1.0",
+  "description": "a device independent library for pixel font drawing",
+  "keywords": "fonts, pixelfont",
+  "authors":
+  [
+    {
+      "name": "Vlad Tepesch"
+    }
+  ],
+  "build":{
+    "flags":[
+      "-Wextra",
+      "-Wpedantic",
+      "-Werror"
+    ]
+  },
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
